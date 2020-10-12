@@ -2,6 +2,8 @@
 
 > Setting Up Backend Rails API for the order system.
 
+It's deployed on Heroku on [this link](https://order-system-api.herokuapp.com/tyres) to retrieve all tyres.
+
 ## ERD Diagram
 
 ![image](https://user-images.githubusercontent.com/55923773/95721559-5b8c7180-0ca5-11eb-98ad-15b4aa1e620f.png)
