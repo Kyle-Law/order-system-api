@@ -1,24 +1,23 @@
-# README
+# Order System API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Setting Up Backend Rails API for the order system.
 
-Things you may want to cover:
+## ERD Diagram
 
-* Ruby version
+![image](https://user-images.githubusercontent.com/55923773/95721559-5b8c7180-0ca5-11eb-98ad-15b4aa1e620f.png)
 
-* System dependencies
+## Project Snapshots
 
-* Configuration
+![image](https://user-images.githubusercontent.com/55923773/95721698-8a0a4c80-0ca5-11eb-9a2f-af85e48d08de.png)
 
-* Database creation
+## Next Update
 
-* Database initialization
+- Setting up User model for authentication and authorization purpose.
 
-* How to run the test suite
+## Built With
 
-* Services (job queues, cache servers, search engines, etc.)
+- Ruby on Rails
 
-* Deployment instructions
+## Acknowledgments
 
-* ...
+- HT Group

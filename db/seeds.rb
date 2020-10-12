@@ -9,3 +9,11 @@ brands = ['NEXEN','BRIDGESTONE','HANKOOK','MICHELIN']
 10.times do |i|
   Tyre.create(code:2056016, brand:brands.sample,year:2009+rand(10), quantity: i*rand(10), price: 200*(rand(3)+1))
 end
+
+10.times do |i|
+  Tyre.create(code:1955515, brand:brands.sample,year:2009+rand(10), quantity: i*rand(10), price: 200*(rand(3)+1))
+end
+
+10.times do |i|
+  Tyre.create(code:2156016, brand:brands.sample,year:2009+rand(10), quantity: i*rand(10), price: 200*(rand(3)+1))
+end
